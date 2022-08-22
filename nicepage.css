@@ -1,4 +1,7 @@
-
+header{
+  background: #413f3b url("images/bg.jpg");
+  font-weight: bold;
+}
 .web-name{
   background-color: #0b9649;
 color: rgb(43, 34, 34);
