@@ -1,4 +1,16 @@
 
+.web-name{
+  background-color: #0b9649;
+color: rgb(43, 34, 34);
+font-family: 'Audiowide';
+font-size: 20pt;
+text-shadow: 0 4px 5px rgb(19, 18, 18);
+/*float: left;*/
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 0 50px 0 50px ;
+box-shadow: 0px 8px 16px 0px;
+}
 .fr-clearfix::after {
   clear: both;
   display: block;
